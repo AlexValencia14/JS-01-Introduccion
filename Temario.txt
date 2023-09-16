@@ -1,0 +1,23 @@
+NOTAS DE CLASE SCRIP.JS
+
+	comentarios
+		// --> comentario simple
+		/* ... */ --> comentario multilinea
+
+	alert("") --> alertas
+
+	Tipo de datos
+		string --> cadena caracteres
+		number --> numero
+		boolean --> true o false
+		undefined --> indefinido
+		null --> nulo
+		symbol --> simbolo
+		object --> objeto (no es primitivo)
+
+	typeof() --> tipo de dato
+
+	variables
+		var --> global
+		let --> local
+	const --> constante
